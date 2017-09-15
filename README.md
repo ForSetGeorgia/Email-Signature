@@ -4,5 +4,10 @@
 * Go to Gmail > Settings
 * Scroll down to Signature section (towards the bottom)
 * Paste in the signature
-* Update the staff name and job title
+* Update the following:
+  * name
+  * job title
+  * phone
+  * email (hover over email, click change, update BOTH text fields with your email address)
+* Turn on the checkbox under the signature textbox with the text 'Insert this signature before quoted text...'
 * Click save at the bottom
